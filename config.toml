@@ -1,0 +1,9 @@
+data_path = "data/"
+
+[model_params]
+learning_rate = 0.001
+batch_size = 32
+
+[feature_params]
+window_size = 10
+use_technical_indicators = true 
